@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>
+    <name> Hareesh </name>
     <Name>Avinash</Name>
     <name>Swapna </name>
     <name>Divya</name>
