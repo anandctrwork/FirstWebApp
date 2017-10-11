@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>
+    <name>Swapna </name>
   </properties>
   <dependencies>
     <dependency>
