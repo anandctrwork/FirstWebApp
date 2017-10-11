@@ -10,6 +10,9 @@
   <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
+   <properties>
+ <name>Srinadh</name>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
