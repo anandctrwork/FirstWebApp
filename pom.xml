@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>
+    <Name>Avinash</Name>
   </properties>
   <dependencies>
     <dependency>
